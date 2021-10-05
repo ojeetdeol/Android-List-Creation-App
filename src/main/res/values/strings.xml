@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Builder</string>
+    <string name="edit_message">Enter A Message</string>
+    <string name="button_add_reminder">Add</string>
+</resources>
